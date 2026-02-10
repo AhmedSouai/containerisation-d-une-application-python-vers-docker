@@ -1,4 +1,10 @@
-# Mini-projet : Student API + Website
+## Schéma
+
+#<img width="634" height="611" alt="1 drawio" src="https://github.com/user-attachments/assets/a88685f1-94c5-4274-954e-912ead94b545" />
+
+
+
+## Mini-projet : Student API + Website
 
 ## 🚀 Description du projet
 
